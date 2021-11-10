@@ -1,0 +1,5 @@
+- 👋 Whats up dude Im Gohost/Joshua
+- 👀 Been learning python for about a year and a half now
+- 🌱 Mostly code on my free time, have worked for a couple clients in the past
+- 💞️ Intrested in picking up Rust got some somewhat intermediate knowledge of rust
+- 📫 Discord-Gohost#4055 \\never really changes
