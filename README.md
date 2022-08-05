@@ -2,4 +2,4 @@
 - 👀 Been working with [Python/MySql/AWS/Flask/Django,C,Html/CSS,JS/Jquery/Node.js/React.js] for about two years now
 - 🌱 Mostly code on my free time, have worked for a couple clients in the past
 - 💞️ Intrested in picking up Rust 
-- 📫 Discord-Gohost#4055 \\never really changes
+- 📫 Discord - Muttley.Gohost#4055 \\never really changes
