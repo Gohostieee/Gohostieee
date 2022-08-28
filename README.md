@@ -1,5 +1,5 @@
 - 👋 Whats up dude Im Gohost/Joshua
 - 👀 Been working with [Python/MySql/AWS/Flask/Django,C,Html/CSS,JS/Jquery/Node.js/React.js] for about two years now
 - 🌱 Mostly code on my free time, have worked for a couple clients in the past
-- 💞️ Intrested in picking up Rust 
-- 📫 Discord - Muttley.Gohost#4055 \\never really changes
+- 💞️ Intrested in picking up Rust //Future note! I picked it up! It was very nice, got around to Go too.
+- 📫 Discord - Muttley#4055 \\never really changes (nevermind the fact I've changed it 3 times now)
