@@ -1,5 +1,5 @@
 - 👋 Whats up dude Im Gohost/Joshua
-- 👀 Been working with [Python/MySql/AWS/Flask/Django,C,Html/CSS,JS/Jquery/Node.js/React.js] for about four years now // man I'm getting kinda old
+- 👀 Been working with [Python/MySql/AWS/Flask/Django,C,Html/CSS,JS/Jquery/Node.js/React.js,Next.js Alot of next, mostly next tbh] for about four years now // man I'm getting kinda old
 - 🌱 Mostly code on my free time, have worked for a couple clients in the past
 - 💞️ Intrested in picking up Rust //Future note! I picked it up! It was very nice, got around to Go too.// future future note, for some reason I remember disliking rust now, and go is my bae
 - 📫 Discord - Gohost#4055 \\never really changes (nevermind the fact I've changed it 3 (4) times now) 
