@@ -1,5 +1,11 @@
-- 👋 Whats up, Im Joshua
-- 👀 Been working with [Python/MySql/AWS/Flask/Django,C,Html/CSS,JS/Jquery/Node.js/React.js,Next.js Alot of next, mostly next tbh] for about four (seven)  years now // man I'm getting kinda old(er)
-- 🌱 Doing a lot of freelancing currently, looking forward to my next full time home
-- 📫 Discord - Gohost
-- muttley.vercel.app 😼
+Senior Software Engineer · 🏙️ Boston, MA · ✉️ joshua.rodriguez.34eb@gmail.com
+
+🧠 About Me
+
+Full-stack engineer with 8+ years of experience delivering impactful software across startups and global enterprises.
+
+Strong focus on React / Next.js frontends, Node.js / Go backends, and cloud-native architectures.
+
+Passionate about real-time systems, developer tooling, and AI-driven workflows.
+
+Proven track record of reducing latency, scaling infrastructure, and automating processes to boost productivity.
