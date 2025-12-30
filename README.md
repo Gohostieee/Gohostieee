@@ -1,4 +1,4 @@
-Senior Software Engineer · 🏙️ Boston, MA · ✉️ joshua.rodriguez.34eb@gmail.com
+Senior Software Engineer · 🏙️ Boston, MA · ✉️ joshua@webv1.com
 
 🧠 About Me
 
